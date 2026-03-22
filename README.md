@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Kristijan!<br><br>I'm currently in my second year of studying IT-Forensics at the University of Halmstad. <br>I have a strong interest in coding and enjoy exploring new programming languages and working on creative projects. <br>So far, I've gained experience in Python coding and web development with PHP, JavaScript, and SQL.<br>I'm always eager to expand my skill set. <br>Let's collaborate or learn together!
+👋 Hi, I'm Kristijan!<br><br>I'm currently in my third and final year of studying IT-Forensics and information security as an undergrad at the University of Halmstad. <br>I have a strong interest in coding and enjoy exploring new programming languages and working on creative projects. <br>So far, I've gained experience in Python coding and web development with PHP, JavaScript, and SQL.<br>I'm always eager to expand my skill set. <br>Let's collaborate or learn together!
 
 
 ## 🌐 Socials:
